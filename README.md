@@ -59,4 +59,4 @@ Users should be able to:
 ## Author
 
 - Website - [zoe](https://github.com/zoetanghk852)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@zoetanghk852](https://www.frontendmentor.io/profile/yourusername)
