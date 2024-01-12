@@ -21,7 +21,6 @@
 body {
   background: var(--light-gray);
   height: 100vh;
-  padding: 5rem 2rem;
   font-family: var(--font-family);
 }
 
